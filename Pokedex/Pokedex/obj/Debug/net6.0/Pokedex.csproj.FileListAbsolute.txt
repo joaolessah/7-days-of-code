@@ -1,0 +1,17 @@
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\bin\Debug\net6.0\Pokedex.exe
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\bin\Debug\net6.0\Pokedex.deps.json
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\bin\Debug\net6.0\Pokedex.runtimeconfig.json
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\bin\Debug\net6.0\Pokedex.dll
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\bin\Debug\net6.0\Pokedex.pdb
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\obj\Debug\net6.0\Pokedex.csproj.AssemblyReference.cache
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\obj\Debug\net6.0\Pokedex.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\obj\Debug\net6.0\Pokedex.AssemblyInfoInputs.cache
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\obj\Debug\net6.0\Pokedex.AssemblyInfo.cs
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\obj\Debug\net6.0\Pokedex.csproj.CoreCompileInputs.cache
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\obj\Debug\net6.0\Pokedex.dll
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\obj\Debug\net6.0\refint\Pokedex.dll
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\obj\Debug\net6.0\Pokedex.pdb
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\obj\Debug\net6.0\Pokedex.genruntimeconfig.cache
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\obj\Debug\net6.0\ref\Pokedex.dll
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\bin\Debug\net6.0\RestSharp.dll
+E:\programacao-backup\repositorios-github\7-days-of-code\Pokedex\Pokedex\obj\Debug\net6.0\Pokedex.csproj.CopyComplete

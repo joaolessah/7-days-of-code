@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IVBEo66vVM2GVNK/oi7K53W9NiIOaaWF8IiUPerFZludu/01yuknSR30l0Yjt7wfZaBJcEMo8H81DhSFrjiMRg==",
+  "success": true,
+  "projectFilePath": "E:\\programacao-backup\\repositorios-github\\7-days-of-code\\Pokedex\\Pokedex\\Pokedex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joao\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
